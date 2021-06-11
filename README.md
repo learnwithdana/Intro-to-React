@@ -14,7 +14,7 @@ ver2A.js - ver2B.js  showed us how to create and use components
 
 ver3A.js - ver3E.js  showed us how to work with props (data passed in to components)
 
-ver4A.js - ver4C.js  showed us how to create <li> elements for values in an array
+ver4A.js - ver4C.js  showed us how to create li elements for values in an array
 
 ver5A.js - ver5B.js  is the example we worked on Friday that has weather info, a todo list, and a grocery list
 
