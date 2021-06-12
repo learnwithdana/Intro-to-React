@@ -3,7 +3,7 @@
 // have to use JavaScript style names for CSS properies
 // see:  https://www.dummies.com/web-design-development/javascript/converting-css-property-names-to-javascript/
 
-// PS:  The CSS rule in in the header of the page in this example
+// PS:  The CSS rule is in the header of the page in this example
 
 let styledElement = (
     <div>
