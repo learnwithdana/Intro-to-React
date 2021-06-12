@@ -7,7 +7,7 @@ let num2 = 7;
 let sum = num1 + num2;
 
 // This time I put ( ) around the JSX in the variable because I
-// through the hanging ; at the end looked funny
+// throught the hanging ; at the end looked funny
 
 let mathExpression = (
   <div>
